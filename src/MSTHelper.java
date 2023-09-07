@@ -1,5 +1,5 @@
 /**
- * This is the helper class to detect the two relationships of an edge in a graph data structure
+ * This is the helper class to detect the two relationships of an edge in a graph data structure (https://github.com/yzhang0713/AlgorithmImplementation_Java)
  *      1. Whether the edge is in any Minimum Spanning Tree
  *      2. Whether the edge is in all Minimum Spanning Tree
  */
